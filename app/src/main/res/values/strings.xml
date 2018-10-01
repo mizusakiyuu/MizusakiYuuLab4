@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Android Activity Life Cycle</string>
+    <string name="nam">San Felipe Neri Church</string>
+    <string name="loc1">Location:</string>
+    <string name="dis1">Distance:</string>
+    <string name="loc2">Corner Boni Avenue and Aglipay Street, Mandaluyong, Luzon Philippines</string>
+    <string name="dis2">4.4 km from University of Santo Tomas</string>
+    <string name="back">BACK</string>
+    <string name="next">NEXT</string>
+</resources>
